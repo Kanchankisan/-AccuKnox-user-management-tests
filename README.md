@@ -9,6 +9,7 @@ URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
  Credentials:
  
 Username: Admin
+
 Password: admin123 (visible on login page)
 
 🎯 Objective:
